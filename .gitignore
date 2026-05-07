@@ -1,0 +1,13 @@
+# Runtime state — auto-generated, do not commit
+injected_state.json
+chain_state.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# OS
+.DS_Store
+Thumbs.db
