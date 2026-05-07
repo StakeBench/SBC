@@ -11,8 +11,9 @@ This README is written for reviewers and evaluators. It focuses on **what is inc
 
 StakeBench evaluates whether deployable LLM-based web agents can safely complete realistic web tasks when adversarial instructions are embedded in the content they observe. The benchmark studies both:
 
-- **Direct Prompt Injection (DPI):** adversarial instructions are inserted into the agent's primary user-input channel.
 - **Indirect Prompt Injection (IPI):** adversarial instructions are embedded in environmental content encountered during task execution, such as product reviews, ratings, metadata, or other user-controllable e-commerce content.
+- **Direct Prompt Injection (DPI):** adversarial instructions are inserted into the agent's primary user-input channel (as a reference setting).
+
 
 StakeBench is built around a functional e-commerce environment and evaluates complete agent systems rather than isolated language models. StakeBench evaluates two deployable web-agent systems, **NanoBrowser** ([https://github.com/nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser)) and **BrowserUse** ([https://github.com/browser-use/browser-use](https://github.com/browser-use/browser-use)), each paired with two backbone LLMs, **GPT-5** and **Gemini-2.5-Flash**.
 
