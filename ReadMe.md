@@ -1,9 +1,5 @@
-# StakeBench: Code Release for NeurIPS 2026 Submission
-
-> **Anonymous supplementary code release for NeurIPS 2026 review.**  
+# StakeBench: 
 > This repository contains the benchmark templates, task definitions, LLM-based auto-evaluation scripts, and reproduction instructions for **StakeBench**, a stakeholder-centric benchmark for evaluating prompt-injection security of LLM-based web agents in realistic e-commerce environments.
-
-This README is written for reviewers and evaluators. It focuses on **what is included** and **how to run and evaluate the benchmark**. The repository is anonymized for double-blind review.
 
 ---
 
