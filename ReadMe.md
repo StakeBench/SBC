@@ -125,7 +125,17 @@ The `Agent_Execution_log/` directories contain the agent trajectories from our e
 
 This stage is only required if you want to run your own agent trajectories.
 
+### Benchmark Construction Video
 
+<a href="https://www.youtube.com/watch?v=B0J9BISEUuU">
+  <img src="https://img.youtube.com/vi/B0J9BISEUuU/maxresdefault.jpg" width="700">
+</a>
+
+<br>
+
+▶ <a href="https://www.youtube.com/watch?v=B0J9BISEUuU">Watch benchmark construction video</a>
+
+---
 #### A1 — Install the Shopping Environment
 
 Install and launch the OneStopShop e-commerce environment from VisualWebArena:
@@ -259,17 +269,7 @@ Each line in the JSONL file corresponds to one run and must follow this format:
   }
 }
 ```
-### Benchmark Construction Video
 
-<a href="https://www.youtube.com/watch?v=B0J9BISEUuU">
-  <img src="https://img.youtube.com/vi/B0J9BISEUuU/maxresdefault.jpg" width="700">
-</a>
-
-<br>
-
-▶ <a href="https://www.youtube.com/watch?v=B0J9BISEUuU">Watch benchmark construction video</a>
-
----
 
 ### Stage B — LLM-based Judge Evaluation
 
