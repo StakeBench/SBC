@@ -13,6 +13,17 @@ StakeBench evaluates whether deployable LLM-based web agents can safely complete
 
 StakeBench is built around a functional e-commerce environment and evaluates complete agent systems rather than isolated language models. StakeBench evaluates two deployable web-agent systems, **NanoBrowser** ([https://github.com/nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser)) and **BrowserUse** ([https://github.com/browser-use/browser-use](https://github.com/browser-use/browser-use)), each paired with two backbone LLMs, **GPT-5** and **Gemini-2.5-Flash**.
 
+
+### Introduction Video
+
+<a href="https://github.com/StakeBench/SBC/releases/latest/download/Introduction.mp4">
+  <img src="assets/thumbnails/Intro.png" alt="StakeBench introduction video" width="700">
+</a>
+
+<br>
+
+<a href="https://github.com/StakeBench/SBC/releases/latest/download/Introduction.mp4">Watch introduction video</a>
+
 ---
 
 ## 2. Repository Contents
@@ -70,6 +81,17 @@ StakeBench/
 | Total attacked runs | 3,168 |
 | Metrics | ASR, TDR, BIR |
 
+
+### Benchmark Construction Video
+
+<a href="https://github.com/StakeBench/SBC/releases/latest/download/Construction.mp4">
+  <img src="assets/thumbnails/Construction.png" alt="StakeBench benchmark construction video" width="700">
+</a>
+
+<br>
+
+<a href="https://github.com/StakeBench/SBC/releases/latest/download/Construction.mp4">Watch benchmark construction video</a>
+
 ---
 
 ## 4. Environment Installation
@@ -109,6 +131,17 @@ The `Agent_Execution_log/` directories contain the agent trajectories from our e
 ### Stage A — Benchmark Setup and Agent Evaluation
 
 This stage is only required if you want to run your own agent trajectories.
+
+
+#### Demo Video
+
+<a href="https://github.com/StakeBench/SBC/releases/latest/download/demo.mp4">
+  <img src="assets/thumbnails/Demo.png" alt="StakeBench demo video" width="700">
+</a>
+
+<br>
+
+<a href="https://github.com/StakeBench/SBC/releases/latest/download/demo.mp4">Watch demo video</a>
 
 #### A1 — Install the Shopping Environment
 
@@ -238,6 +271,17 @@ Each line in the JSONL file corresponds to one run and must follow this format:
 ### Stage B — LLM-based Judge Evaluation
 
 This stage reproduces the automatic judging results using the agent trajectories in `Agent_Execution_log/`. All automated labels are produced by a GPT-5 judge operating on the executed trajectory and final environment state under template-specific success conditions.
+
+
+#### Evaluation Walkthrough Video
+
+<a href="https://github.com/StakeBench/SBC/releases/latest/download/Evaluation.mp4">
+  <img src="assets/thumbnails/Evaluation.png" alt="StakeBench evaluation walkthrough video" width="700">
+</a>
+
+<br>
+
+<a href="https://github.com/StakeBench/SBC/releases/latest/download/Evaluation.mp4">Watch evaluation walkthrough video</a>
 
 #### B1 — Run the Judge
 
