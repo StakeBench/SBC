@@ -36,7 +36,7 @@ StakeBench/
 ├── run_benchmark.py                ← IPI environment injection script
 ├── template_configs.py             ← Template definitions (do not edit)
 ├── run_judge.py                    ← LLM-based auto-evaluation script
-├── run.sh                          ← Example judge commands
+├── run_agent.py                    ← BrowserUse Agent as an example
 │
 ├── DPI_attack/
 │   ├── Agent_Execution_log/
