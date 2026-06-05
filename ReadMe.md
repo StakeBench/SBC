@@ -1,3 +1,5 @@
+
+
 # StakeBench: 
 > This repository contains the benchmark templates, task definitions, LLM-based auto-evaluation scripts, and reproduction instructions for **StakeBench**, a stakeholder-centric benchmark for evaluating prompt-injection security of LLM-based web agents in realistic e-commerce environments.
 
@@ -16,13 +18,7 @@ StakeBench is built around a functional e-commerce environment and evaluates com
 
 ### Introduction Video
 
-<a href="https://github.com/StakeBench/SBC/releases/latest/download/Introduction.mp4">
-  <img src="assets/thumbnails/Intro.png" alt="StakeBench introduction video" width="700">
-</a>
-
-<br>
-
-<a href="https://github.com/StakeBench/SBC/releases/latest/download/Introduction.mp4">Watch introduction video</a>
+<video src="https://github.com/StakeBench/SBC/releases/latest/download/Introduction.mp4" controls width="700"></video>
 
 ---
 
@@ -84,13 +80,7 @@ StakeBench/
 
 ### Benchmark Construction Video
 
-<a href="https://github.com/StakeBench/SBC/releases/latest/download/Construction.mp4">
-  <img src="assets/thumbnails/Construction.png" alt="StakeBench benchmark construction video" width="700">
-</a>
-
-<br>
-
-<a href="https://github.com/StakeBench/SBC/releases/latest/download/Construction.mp4">Watch benchmark construction video</a>
+<video src="https://github.com/StakeBench/SBC/releases/latest/download/Construction.mp4" controls width="700"></video>
 
 ---
 
@@ -135,13 +125,7 @@ This stage is only required if you want to run your own agent trajectories.
 
 #### Demo Video
 
-<a href="https://github.com/StakeBench/SBC/releases/latest/download/demo.mp4">
-  <img src="assets/thumbnails/Demo.png" alt="StakeBench demo video" width="700">
-</a>
-
-<br>
-
-<a href="https://github.com/StakeBench/SBC/releases/latest/download/demo.mp4">Watch demo video</a>
+<video src="https://github.com/StakeBench/SBC/releases/latest/download/demo.mp4" controls width="700"></video>
 
 #### A1 — Install the Shopping Environment
 
@@ -275,13 +259,7 @@ This stage reproduces the automatic judging results using the agent trajectories
 
 #### Evaluation Walkthrough Video
 
-<a href="https://github.com/StakeBench/SBC/releases/latest/download/Evaluation.mp4">
-  <img src="assets/thumbnails/Evaluation.png" alt="StakeBench evaluation walkthrough video" width="700">
-</a>
-
-<br>
-
-<a href="https://github.com/StakeBench/SBC/releases/latest/download/Evaluation.mp4">Watch evaluation walkthrough video</a>
+<video src="https://github.com/StakeBench/SBC/releases/latest/download/Evaluation.mp4" controls width="700"></video>
 
 #### B1 — Run the Judge
 
