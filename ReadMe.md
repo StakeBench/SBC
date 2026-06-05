@@ -18,7 +18,13 @@ StakeBench is built around a functional e-commerce environment and evaluates com
 
 ### Introduction Video
 
-<video src="https://github.com/StakeBench/SBC/releases/latest/download/Introduction.mp4" controls width="700"></video>
+<a href="https://www.youtube.com/watch?v=bI4huFXcDYc">
+  <img src="https://img.youtube.com/vi/bI4huFXcDYc/maxresdefault.jpg" width="700">
+</a>
+
+<br>
+
+▶ <a href="https://www.youtube.com/watch?v=bI4huFXcDYc">Watch introduction video</a>
 
 ---
 
@@ -80,7 +86,13 @@ StakeBench/
 
 ### Benchmark Construction Video
 
-<video src="https://github.com/StakeBench/SBC/releases/latest/download/Construction.mp4" controls width="700"></video>
+<a href="https://www.youtube.com/watch?v=B0J9BISEUuU">
+  <img src="https://img.youtube.com/vi/B0J9BISEUuU/maxresdefault.jpg" width="700">
+</a>
+
+<br>
+
+▶ <a href="https://www.youtube.com/watch?v=B0J9BISEUuU">Watch benchmark construction video</a>
 
 ---
 
@@ -125,7 +137,13 @@ This stage is only required if you want to run your own agent trajectories.
 
 #### Demo Video
 
-<video src="https://github.com/StakeBench/SBC/releases/latest/download/demo.mp4" controls width="700"></video>
+<a href="https://www.youtube.com/watch?v=mH2WFOLAcVQ">
+  <img src="https://img.youtube.com/vi/mH2WFOLAcVQ/maxresdefault.jpg" width="700">
+</a>
+
+<br>
+
+▶ <a href="https://www.youtube.com/watch?v=mH2WFOLAcVQ">Watch demo video</a>
 
 #### A1 — Install the Shopping Environment
 
@@ -259,7 +277,13 @@ This stage reproduces the automatic judging results using the agent trajectories
 
 #### Evaluation Walkthrough Video
 
-<video src="https://github.com/StakeBench/SBC/releases/latest/download/Evaluation.mp4" controls width="700"></video>
+<a href="https://www.youtube.com/watch?v=gW4ytn38VhU">
+  <img src="https://img.youtube.com/vi/gW4ytn38VhU/maxresdefault.jpg" width="700">
+</a>
+
+<br>
+
+▶ <a href="https://www.youtube.com/watch?v=gW4ytn38VhU">Watch evaluation walkthrough video</a>
 
 #### B1 — Run the Judge
 
