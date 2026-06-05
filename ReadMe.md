@@ -126,16 +126,6 @@ The `Agent_Execution_log/` directories contain the agent trajectories from our e
 This stage is only required if you want to run your own agent trajectories.
 
 
-#### Demo Video
-
-<a href="https://www.youtube.com/watch?v=mH2WFOLAcVQ">
-  <img src="https://img.youtube.com/vi/mH2WFOLAcVQ/maxresdefault.jpg" width="700">
-</a>
-
-<br>
-
-▶ <a href="https://www.youtube.com/watch?v=mH2WFOLAcVQ">Watch demo video</a>
-
 #### A1 — Install the Shopping Environment
 
 Install and launch the OneStopShop e-commerce environment from VisualWebArena:
@@ -231,6 +221,17 @@ After injection, verify the payload is visible by navigating to a target product
 #### A5 — Run Your Agent
 
 Provide the agent with the user input prompt printed by the script. Run the agent against `http://localhost:7770` and record the full execution trajectory.
+
+#### Demo Video
+
+<a href="https://www.youtube.com/watch?v=mH2WFOLAcVQ">
+  <img src="https://img.youtube.com/vi/mH2WFOLAcVQ/maxresdefault.jpg" width="700">
+</a>
+
+<br>
+
+▶ <a href="https://www.youtube.com/watch?v=mH2WFOLAcVQ">Watch demo video</a>
+
 
 #### A6 — Save the Execution Log
 
