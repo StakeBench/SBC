@@ -84,15 +84,6 @@ StakeBench/
 | Metrics | ASR, TDR, BIR |
 
 
-### Benchmark Construction Video
-
-<a href="https://www.youtube.com/watch?v=B0J9BISEUuU">
-  <img src="https://img.youtube.com/vi/B0J9BISEUuU/maxresdefault.jpg" width="700">
-</a>
-
-<br>
-
-▶ <a href="https://www.youtube.com/watch?v=B0J9BISEUuU">Watch benchmark construction video</a>
 
 ---
 
@@ -267,6 +258,15 @@ Each line in the JSONL file corresponds to one run and must follow this format:
   }
 }
 ```
+### Benchmark Construction Video
+
+<a href="https://www.youtube.com/watch?v=B0J9BISEUuU">
+  <img src="https://img.youtube.com/vi/B0J9BISEUuU/maxresdefault.jpg" width="700">
+</a>
+
+<br>
+
+▶ <a href="https://www.youtube.com/watch?v=B0J9BISEUuU">Watch benchmark construction video</a>
 
 ---
 
