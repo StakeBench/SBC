@@ -1,6 +1,13 @@
+<div align="center">
 
+<img src="logo.png" width="300" alt="StakeBench">
 
-# StakeBench: 
+<h1>StakeBench</h1>
+
+<p>22 attack templates &nbsp;·&nbsp; 264 adversarial cases &nbsp;·&nbsp; 3,168 total runs</p>
+
+</div>
+
 > This repository contains the benchmark templates, task definitions, LLM-based auto-evaluation scripts, and reproduction instructions for **StakeBench**, a stakeholder-centric benchmark for evaluating prompt-injection security of LLM-based web agents in realistic e-commerce environments.
 
 ---
